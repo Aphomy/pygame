@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="802e572c-9049-41d6-9ed4-9a140bb1c6fa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cube.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/line.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/star.py" afterDir="false" />
-    </list>
+    <list default="true" id="802e572c-9049-41d6-9ed4-9a140bb1c6fa" name="Changes" comment="jdttf" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,8 +63,17 @@
       <workItem from="1736530203184" duration="976000" />
       <workItem from="1736533824293" duration="213000" />
       <workItem from="1736581370803" duration="4136000" />
-      <workItem from="1736668183962" duration="3597000" />
+      <workItem from="1736668183962" duration="4022000" />
     </task>
+    <task id="LOCAL-00001" summary="jdttf">
+      <option name="closed" value="true" />
+      <created>1736671935877</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736671935877</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,6 +89,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="jdttf" />
+    <option name="LAST_COMMIT_MESSAGE" value="jdttf" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
